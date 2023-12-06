@@ -1,0 +1,54 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.sinus-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100vh;
+}
+.sinus-container .sinus-functions-container {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 10%;
+}
+.sinus-container .sinus-functions-container .params-container {
+  width: 100%;
+  margin: 30px auto;
+}
+.sinus-container .sinus-functions-container .params-container .params-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sinus-container .sinus-functions-container .params-container .params-box .param-name {
+  width: 10px;
+  margin-right: 10px;
+}
+.sinus-container .sinus-functions-container .sumBtn {
+  width: 50%;
+}
+.sinus-container .sinus-functions-container .checkbox-container {
+  display: flex;
+  flex-direction: row;
+}
+.sinus-container .chart-container {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+.sinus-container .chart-container .chart {
+  margin: 0 auto;
+  width: 70%;
+  height: 30%;
+}
+.sinus-container .chart-container .chart canvas {
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */
