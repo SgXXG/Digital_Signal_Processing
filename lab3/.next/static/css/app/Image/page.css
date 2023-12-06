@@ -1,0 +1,46 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[3]!./src/app/styles/css/Image.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.image-container {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.image-container .images-container {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+}
+.image-container .images-container .image-loaded {
+  width: 600px;
+  height: 800px;
+}
+.image-container .images-container .image-after {
+  width: 600px;
+  height: 800px;
+}
+.image-container .images-container .image-btn-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.image-container .images-container .image-btn-container button {
+  width: 250px;
+  height: 150px;
+  font-size: 25px;
+  border-radius: 15px;
+  background-color: white;
+  border: 2px solid black;
+}/*# sourceMappingURL=Image.css.map */
+
+.image-container .images-container .image-btn-container button:hover {
+  width: 250px;
+  height: 150px;
+  font-size: 25px;
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+}
+
+
