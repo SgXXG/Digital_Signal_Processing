@@ -1,0 +1,46 @@
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.MainForm.resources
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.AssemblyInfo.cs
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\_03.exe.config
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\_03.exe
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\_03.pdb
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\AForge.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\AForge.Imaging.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\AForge.Math.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\Emgu.CV.UI.GL.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\Emgu.CV.UI.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\Emgu.CV.World.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\OpenTK.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\OpenTK.GLControl.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\System.Drawing.Common.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\bin\Debug\net4.8-windows\ZedGraph.dll
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.csproj.CopyComplete
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.exe
+C:\Users\Asus\Downloads\_04\_04\Pictures\_03\obj\Debug\net4.8-windows\_03.pdb
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\_03.exe.config
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\_03.exe
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\_03.pdb
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\AForge.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\AForge.Imaging.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\AForge.Math.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\Emgu.CV.UI.GL.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\Emgu.CV.UI.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\Emgu.CV.World.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\OpenTK.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\OpenTK.GLControl.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\System.Drawing.Common.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\bin\Debug\net4.8-windows\ZedGraph.dll
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.csproj.AssemblyReference.cache
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.MainForm.resources
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.csproj.GenerateResource.cache
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.AssemblyInfoInputs.cache
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.AssemblyInfo.cs
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.csproj.CoreCompileInputs.cache
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.csproj.CopyComplete
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.exe
+D:\!Studing\4 Course\Digital Signal Processing (COS)\Pictures\_03\obj\Debug\net4.8-windows\_03.pdb

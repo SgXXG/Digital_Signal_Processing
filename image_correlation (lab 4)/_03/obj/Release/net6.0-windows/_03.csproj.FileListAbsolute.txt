@@ -1,0 +1,16 @@
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\bin\Release\net6.0-windows\_03.exe
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\bin\Release\net6.0-windows\_03.deps.json
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\bin\Release\net6.0-windows\_03.runtimeconfig.json
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\bin\Release\net6.0-windows\_03.dll
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\bin\Release\net6.0-windows\_03.pdb
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\_03.MainForm.resources
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\_03.csproj.GenerateResource.cache
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\_03.AssemblyInfoInputs.cache
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\_03.AssemblyInfo.cs
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\_03.csproj.CoreCompileInputs.cache
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\_03.dll
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\refint\_03.dll
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\_03.pdb
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\_03.genruntimeconfig.cache
+D:\BSUIR\7_Sem\DSP\Projects\_04\Pictures\_03\obj\Release\net6.0-windows\ref\_03.dll
